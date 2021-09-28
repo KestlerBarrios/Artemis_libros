@@ -6,9 +6,10 @@
 .dev img {
     height: 50%;
     border-radius: 50%;
-    border-color: black;
+    border: 15px solid;
+    border-color: darkorchid;
 }
 
 .dev-info {
-    padding: 20;
+    padding: 50;
 }

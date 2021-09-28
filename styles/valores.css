@@ -1,18 +1,19 @@
 .valores nav {
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 .valores nav p {
-    margin: 20;
+    margin: 30;
 }
 
 .mision {
+    align-items: center;
     float: left;
     width: 50%;
 }
 
 .mision img {
-    height: 50%;
+    height: 30%;
 }
 
 .vision {
@@ -21,5 +22,5 @@
 }
 
 .vision img {
-    height: 50%;
+    height: 30%;
 }
