@@ -1,5 +1,5 @@
 .valores nav {
-    display: inline-block;
+    /* display: inline-block; */
 }
 
 .valores nav p {
@@ -9,11 +9,17 @@
 .mision {
     float: left;
     width: 50%;
-    background-color: teal;
+}
+
+.mision img {
+    height: 50%;
 }
 
 .vision {
     float: right;
     width: 50%;
-    background-color: tomato;
+}
+
+.vision img {
+    height: 50%;
 }
