@@ -34,3 +34,11 @@
     a:active {
         color: white;
     }
+    
+    #desarrolladora {
+        justify-content: flex-end;
+    }
+    
+    #desarrolladora img {
+        height: 30%;
+    }
