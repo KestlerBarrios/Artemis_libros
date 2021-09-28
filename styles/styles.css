@@ -1,0 +1,34 @@
+    * {
+        padding: 0;
+        margin: 0;
+        font-family: monospace
+    }
+    
+    body {
+        background-color: #ededed;
+    }
+    
+    iframe {
+        width: 100%;
+        height: 100px;
+    }
+    
+    h1 {
+        padding: 20;
+        font-size: 35;
+        text-align: center;
+    }
+    
+    #imagen {
+        border-radius: 20;
+        margin: 20;
+        float: right;
+        width: 600;
+        height: 387;
+    }
+    
+    #texto {
+        margin: 20;
+        width: 50%;
+        float: left;
+    }

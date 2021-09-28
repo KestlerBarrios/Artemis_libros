@@ -1,0 +1,19 @@
+.valores nav {
+    display: inline-block;
+}
+
+.valores nav p {
+    margin: 20;
+}
+
+.mision {
+    float: left;
+    width: 50%;
+    background-color: teal;
+}
+
+.vision {
+    float: right;
+    width: 50%;
+    background-color: tomato;
+}
