@@ -1,10 +1,12 @@
 .card {
     padding: 20;
     margin: 20;
-    background-color: darkred;
+    background-color: goldenrod;
     height: 20%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    border-radius: 10% 10%;
+    border-radius: 20px;
+    display: inline-block;
+    color: white;
 }
 
 #titulo {
@@ -12,5 +14,21 @@
 }
 
 #descripcion {
+    padding: 0 20 0 0;
     font-size: 12;
+}
+
+.info {
+    float: left;
+    width: 70%;
+}
+
+#image {
+    width: 100%;
+    height: 100%;
+}
+
+.imagen {
+    width: 30%;
+    float: right;
 }
