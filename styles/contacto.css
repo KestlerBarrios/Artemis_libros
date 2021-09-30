@@ -1,9 +1,17 @@
 #info {
-    padding: 30;
+    padding: 30PX;
     width: 50%;
 }
 
 #contacto {
-    padding: 30;
+    padding: 30px;
     display: inline;
+}
+
+.tabla,
+tr,
+td {
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
 }
