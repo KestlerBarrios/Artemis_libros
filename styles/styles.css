@@ -32,3 +32,13 @@
         width: 50%;
         float: left;
     }
+    
+    #video {
+        /* padding: 50px; */
+    }
+    
+    .video {
+        padding: 50;
+        height: 1000px;
+        width: 500px;
+    }

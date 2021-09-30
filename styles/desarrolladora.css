@@ -1,19 +1,15 @@
-.dev {
-    float: right;
-    padding: 10%
-}
-
-.dev img {
-    height: 50%;
-    border-radius: 50%;
-    border: 15px solid;
-    border-color: darkorchid;
-}
-
-.dev-info {
-    padding: 50;
-}
-
-.video {
-    height: 75%;
-}
+    .dev {
+        float: right;
+        padding: 10%
+    }
+    
+    .dev img {
+        height: 50%;
+        border-radius: 50%;
+        border: 15px solid;
+        border-color: darkorchid;
+    }
+    
+    .dev-info {
+        padding: 50;
+    }
